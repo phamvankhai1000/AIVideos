@@ -37,3 +37,6 @@ __pycache__/
 /scripts/*sao-viet*
 /scripts/tts-zerotts-local.py
 /scripts/voice-audition.md
+
+# Local scripts, storyboards and research for individual videos.
+/plans/
